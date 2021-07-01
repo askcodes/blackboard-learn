@@ -75,7 +75,9 @@ This is a guide to setup a Blackboard Learn instance and use it with REST APIs. 
 
 In order to make calls to the Blackboard Learn REST API, we need to authenticate. 
 
-## Authentication ### Generate Basic Token 
+## Authentication
+
+### Generate Basic Token 
 
 1. Base 64 encode `<Application ID>:<Applciation Secret>`
 2. The encoded string is your Basic Token.
