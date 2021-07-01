@@ -10,7 +10,7 @@ This is a guide to setup a Blackboard Learn instance and use it with REST APIs. 
 ## <a name="1"></a>Setting up Blackboard AMI EC2 instance on AWS 
 
 1. Login to AWS console.
-2. Make sure you select `N.Virginia` region from the dropdown and switch to DEV role.
+2. Make sure you select appropriate region and role (if you have one setup).
 3. Search for and select `EC2` service from search.
 4. Navigate to `Instances > Launch Instance`.
     * Step 1: Choose an Amazon Machine Image (AMI)  
